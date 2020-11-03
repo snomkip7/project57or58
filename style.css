@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(#69F0AE 0%, #009688 100%);
+    text-align: center;
+}
+
+img {
+    width: 20%;
+}
+
+h1 {
+    text-shadow: 10px;
+    padding-top: 75px;
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+}
+
+.bottom {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.links {
+    float: left;
+    font-family: 'Rubik', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.links:hover {
+    background-color: aqua;
+    color: darkorange;
+}
+
+.menu {
+    position: absolute;
+    z-index: 15;
+    top: 20px;
+    right: 20px;
+    font-family: 'Rubik', sans-serif;
+    list-style: none;
+}
