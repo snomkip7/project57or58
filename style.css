@@ -36,10 +36,20 @@ h1 {
 }
 
 .menu {
-    position: absolute;
+    position: fixed;
     z-index: 15;
     top: 20px;
     right: 20px;
     font-family: 'Rubik', sans-serif;
     list-style: none;
+    background-color: beige;
+    width: 100%;
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+}
+
+h3 {
+    font-family: 'Comfortaa', cursive;
 }
