@@ -38,8 +38,6 @@ h1 {
 .menu {
     position: fixed;
     z-index: 15;
-    top: 20px;
-    right: 20px;
     font-family: 'Rubik', sans-serif;
     list-style: none;
     background-color: beige;
